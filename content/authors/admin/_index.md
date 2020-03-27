@@ -18,7 +18,7 @@ organizations:
   url: "https://graduateinstitute.ch/Homepage"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:I am a Postodoctoral researcher at The Graduate Institute, Geneva. My research interests include modeling and estimation of the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I am also interested in contract theory, with applications of optimal transportation theory and to agricultural contracts in developing countries. I am currently the co-principal investigator for the project  
 
 interests:
 Applications to Development, Health and Resource Economics of:
