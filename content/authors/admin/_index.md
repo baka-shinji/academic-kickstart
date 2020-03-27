@@ -18,7 +18,7 @@ organizations:
   url: "https://graduateinstitute.ch/Homepage"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral researcher at IHEID. My research interests include modeling and estimation of the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. Contract theory, with applications of optimal transportation theory. Applications to agricultural contracts in developing countries. I am currently the co-principal investigator for the project: Schistosomiasis, Agriculture and Migration in Africa: a joint Economic and Ecological Approach - funded by the Swiss Network of International Studies (SNIS). 
+bio: 
 
 interests:
 Applications to Development, Health and Resource Economics of:
