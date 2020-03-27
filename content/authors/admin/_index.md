@@ -18,10 +18,11 @@ organizations:
   url: "https://graduateinstitute.ch/Homepage"
 
 # Short bio (displayed in user profile at end of posts)
-bio:I am a Postodoctoral researcher at The Graduate Institute, Geneva. My research interests include modeling and estimation of the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I am also interested in contract theory, with applications of optimal transportation theory and to agricultural contracts in developing countries. I am currently the co-principal investigator for the project  
+bio: My research interests include application of stochatic analysis and contract theory to development, health and resource economics.
 
 interests:
 Applications to Development, Health and Resource Economics of:
+- Stochastic analysis and control
 - Uncertainty and risk
 - Mean-field games
 - Machine learning techniques
@@ -67,11 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# Researchers
+# Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Postdoctoral researcher at The Graduate Institute, Geneva. My research interests include modeling and estimation of the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I am also interested in contract theory,  with applications to agricultural contracts in developing countries, and applications of optimal transportation theory. I am currently the co-principal investigator for the project: Schistosomiasis, Agriculture and Migration in Africa: a joint Economic and Ecological Approach - funded by the Swiss Network of International Studies (SNIS). 
