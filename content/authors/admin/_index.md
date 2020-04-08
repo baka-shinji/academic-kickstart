@@ -18,12 +18,12 @@ organizations:
   url: "https://graduateinstitute.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development, health and environmental economics. I focus on disease modeling, contract theory, stochastic analysis and control.
+bio: My research interests are development, health and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Disease modeling
+- Stochastic analysis and control
+- Contract theory
 
 education:
   courses:
