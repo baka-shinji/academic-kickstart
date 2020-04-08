@@ -14,9 +14,9 @@ weight = 90
 +++
 
 -	**Macroeconomics A**
-	-	_Cédric Tille - Autumn 2017
+	-	Cédric Tille - Autumn 2017
 -	**Macroeconomics B**
-	-	_Yi Huang - Spring 2017 ; Spring 2016 ; Spring 2015
+	-	Yi Huang - Spring 2017 ; Spring 2016 ; Spring 2015
 -	**Econometrics A**
-	-	_Nicolas Berman  - Autumn 2017 ; Autumn 2016 ; Autumn 2015 ; Autumn 2014
+	-	Nicolas Berman  - Autumn 2017 ; Autumn 2016 ; Autumn 2015 ; Autumn 2014
 
