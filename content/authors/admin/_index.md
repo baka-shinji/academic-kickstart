@@ -18,7 +18,7 @@ organizations:
   url: "https://graduateinstitute.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are development, health and environmental economics. I focus on disease modeling, contract theory, stochastic analysis and control.
 
 interests:
 - Artificial Intelligence
