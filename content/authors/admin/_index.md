@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include application of stochastic analysis and contract theory to development, health and environmental economics. 
 
 interests:
+Applications to Development, Health and Environmental Economics of
 - Disease modeling
 - Stochastic analysis and control
 - Contract theory
@@ -33,12 +34,7 @@ education:
   - course: MSc in Finance
     institution: University of Padua
     year: 2009
-  - course: Soloist Diploma, piano
-    institution: Musik-Akademie Basel
-    year: 2014
-  - course: MA, piano
-    institution: Royal Academy of Music, London
-    year: 2010
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
