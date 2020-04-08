@@ -13,8 +13,7 @@
   url = "img/cv.pdf"
   weight = 20
 
-  
- [[main]]
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
@@ -29,7 +28,7 @@
   url = "#teaching"
   weight = 50
   
-  [[main]]
+[[main]]
   name = "Music"
   url = "#music"
   weight = 60
