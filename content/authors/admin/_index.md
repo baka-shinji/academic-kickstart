@@ -15,7 +15,7 @@ role: Postdoctoral Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: The Graduate Institute of International and Development Studies
-  url: ""
+  url: "https://graduateinstitute.ch/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
