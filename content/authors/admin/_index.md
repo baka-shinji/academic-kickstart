@@ -39,7 +39,7 @@ education:
     year: 2014
   - course: MA, piano performance
     institution: Royal Academy of Music, London
-    year: 2010
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
