@@ -34,7 +34,12 @@ education:
   - course: MSc in Finance
     institution: University of Padua
     year: 2009
-
+  - course: Soloist Diploma, piano
+    institution: Musik-Akademie Basel
+    year: 2014
+  - course: MA, piano
+    institution: Royal Academy of Music, London
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,6 +72,5 @@ email: ""
 # user_groups:
 # Researchers
 # Visitors
----
 
 I am a postdoctoral researcher at The Graduate Institute, Geneva, and principal investigator for the project "Schistosomiasis, Agriculture and Migration in Africa: a joint Economic and Ecological Approach" funded by the Swiss Network of International Studies. My research interests include modeling and estimation of the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. Additionally, I work on applications of stochastic analysis and control to development, health and environmental economics. I am also interested in contract theory and its connections with optimal transportation theory. I am a classical pianist.
