@@ -28,15 +28,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Economics
+    institution: The Graduate Institute of International and Development Studies, Geneva
+    year: 2018
+  - course: MSc in Finance
+    institution: University of Padua
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Soloist Diploma
+    institution: Musik-Akademie Basel
+    year: 2014
+  - course: MA, piano performance
+    institution: Royal Academy of Music, London
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
