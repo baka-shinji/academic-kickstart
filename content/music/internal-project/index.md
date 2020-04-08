@@ -18,7 +18,8 @@ links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
-url_albums: https://open.spotify.com/artist/1rVxTESUB9ppYOzZ4OPY9G
+- name: Albums
+  url: https://open.spotify.com/artist/1rVxTESUB9ppYOzZ4OPY9G
 url_code: ""
 url_pdf: ""
 url_slides: ""
