@@ -71,9 +71,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
-I am a postdoctoral researcher at The Graduate Institute, Geneva, and principal investigator for the project "Schistosomiasis, Agriculture and Migration in Africa: a joint Economic and Ecological Approach" funded by the Swiss Network of International Studies. My research interests include modeling and estimation of the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. Additionally, I work on applications of stochastic analysis and control to development, health and environmental economics. I am also interested in contract theory and its connections with optimal transportation theory. I am a classical pianist.
+I am a postdoctoral researcher at The Graduate Institute, Geneva
