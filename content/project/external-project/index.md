@@ -1,6 +1,6 @@
 ---
-title: Schistosomiasis, agriculture and migration in Africa - a joint economic and ecological analysis
-summary: Disease diffusion vs. economic development
+title: Schistosomiasis, Agriculture and Migration in Africa - a Joint Economic and Ecological Analysis
+summary: What are the complex relationships between schistosomiasis, economic development and migration in an African context?
 tags:
 - Schistosomiasis
 - Sub-Saharan Africa
