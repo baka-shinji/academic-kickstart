@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  height: 20
+  size: 20
   caption: Photo by Francesco Ragazzi
   focal_point: Smart
 
