@@ -1,8 +1,10 @@
 ---
 title: Schistosomiasis, agriculture and migration in Africa: a joint economic and ecological analysis
-summary: 
+summary: asd
 tags:
-- Demo
+- Schistosomiasis
+- Sub-Saharan Africa
+- Economic Development
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
