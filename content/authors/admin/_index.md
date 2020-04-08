@@ -21,7 +21,7 @@ organizations:
 bio: My research interests are development, health and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa.
 
 interests:
-- Applications to development, health and environmental economics of:
+- Development, health and environmental economics
 - Disease modeling
 - Stochastic analysis and control
 - Contract theory
