@@ -18,12 +18,14 @@ organizations:
   url: "https://graduateinstitute.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include application of stochastic analysis and contract theory to development, health and environmental economics. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Applications to Development, Health and Environmental Economics of
+- Disease modeling
+- Stochastic analysis and control
+- Contract theory
+
 
 education:
   courses:
