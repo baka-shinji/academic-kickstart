@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Economist, Musician
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://graduateinstitute.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development, health and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa.
+bio: My research interests are development, health and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
 
 interests:
 - Development, health and environmental economics
