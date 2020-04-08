@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: Schistosomiasis, agriculture and migration in Africa - a joint economic and ecological analysis
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
