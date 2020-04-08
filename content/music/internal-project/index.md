@@ -12,6 +12,8 @@ external_link: ""
 
 image:
   size: 20
+  height: 20
+  width: 30
   caption: Photo by Francesco Ragazzi
   focal_point: Smart
 
