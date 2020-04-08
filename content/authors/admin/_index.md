@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include application of stochastic analysis and contract theory to development, health and environmental economics. 
 
 interests:
-Applications to Development, Health and Environmental Economics of
+- Development, health and enviromental economics:
 - Disease modeling
 - Stochastic analysis and control
 - Contract theory
