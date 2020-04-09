@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist, Musician
+role: Economist, Pianist
 
 # Organizations/Affiliations
 organizations:
