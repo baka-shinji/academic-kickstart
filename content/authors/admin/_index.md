@@ -23,8 +23,8 @@ bio: My research interests are development, health and environmental economics, 
 interests:
 - Development, health and environmental economics
 - Disease modeling
-- Stochastic analysis and control
-- Contract theory
+- Mathematical economics, stochastic modelling and control
+
 
 education:
   courses:
