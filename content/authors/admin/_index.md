@@ -14,7 +14,7 @@ role: Economist, Pianist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
+- name: Faculty of Economics, University of Cambridge
   url: "http://www.econ.cam.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
