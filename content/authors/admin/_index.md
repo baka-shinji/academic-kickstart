@@ -14,15 +14,15 @@ role: Economist, Pianist
 
 # Organizations/Affiliations
 organizations:
-- name: The Graduate Institute of International and Development Studies
-  url: "https://graduateinstitute.ch/"
+- name: University of Cambridge
+  url: "http://www.econ.cam.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development, health and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
+bio: My research interests are development and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
 
 interests:
-- Development, health and environmental economics
-- Disease modeling
+- Development and environmental economics
+- Economics of endemic and emerging diseases
 - Mathematical economics, stochastic modelling and control
 
 
