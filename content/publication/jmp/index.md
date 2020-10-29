@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "*Submitted for publication*"
 publication_short: ""
 
-abstract: 
+abstract: Cazzomerda
 
 # Summary. An optional shortened abstract.
 summary:
