@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "*Submitted for publication*"
 publication_short: ""
 
-abstract: Cazzomerda
+abstract: Irrigation schemes are one of the most important policy responses designed to reduce poverty, particularly in sub-Saharan Africa. Concomitantly, they facilitate the propagation of schistosomiasis, a water-based debilitating disease that is endemic in many developing countries. We study the economic impact of schistosomiasis in Burkina Faso via its burden on agricultural production. We use new data and new methods, merging high-resolution disease maps with agricultural survey data and using spatial densities of the intermediate vector of the disease, freshwater snails, as instrumental variables. 
 
 # Summary. An optional shortened abstract.
 summary:
