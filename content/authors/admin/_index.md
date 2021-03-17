@@ -31,7 +31,7 @@ education:
   - course: PhD in Economics
     institution: The Graduate Institute of International and Development Studies, Geneva
     year: 2018
-  - course: MSc in Finance
+  - course: MSc in Quantitative Finance
     institution: University of Padua
     year: 2009
   - course: Soloist Diploma
