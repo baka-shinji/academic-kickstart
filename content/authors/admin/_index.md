@@ -74,4 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a visiting scholar at the University of Cambridge, and from September 2021 I will be joining the University of Exeter as Assistant Professor. My current research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. Additionally, I work in mathematical economics, especially on applications of stochastic analysis and control to development and environmental economics. I am a classical pianist.
+I am currently a visiting scholar at the University of Cambridge, and from September 2021 I will be joining the University of Exeter as Assistant Professor. 
+
+My current research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I work at the nexus of development, environmental and mathematical economics, especially on applications of stochastic analysis and control. I am a classical pianist.
