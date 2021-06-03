@@ -18,7 +18,7 @@ organizations:
   url: "http://www.econ.cam.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
+bio: My research interests are development and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Additionally, I work on stochastic processes and probability theory. Also a pianist.
 
 interests:
 - Development and environmental economics
@@ -76,4 +76,4 @@ user_groups:
 
 I am currently a visiting scholar at the University of Cambridge, and from September 2021 I will be joining the University of Exeter as assistant professor. I am also a classical pianist, performing internationally.
 
-My current research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I work at the nexus of development, environmental and mathematical economics, especially via applications of stochastic analysis and control.
+I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also work on probability theory and stochastic analysis, with a focus on non-Gaussian diffusion processes. 
