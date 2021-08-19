@@ -76,4 +76,4 @@ user_groups:
 
 I am currently a visiting scholar at the University of Cambridge, and from September 2021 I will be joining the University of Exeter as assistant professor. I am also a classical pianist, performing internationally.
 
-I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also work on probability theory and stochastic analysis, with a focus on non-Gaussian diffusion processes. 
+I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. 
