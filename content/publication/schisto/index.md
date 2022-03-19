@@ -21,10 +21,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: We study the economic impact of schistosomiasis, a parasitic disease with a complex transmission cycle which is endemic in many developing countries, by means of its effect on agricultural production. We create a novel dataset that combines high-resolution disease prevalence maps with detailed agricultural and household surveys. We find a large, negative and nonlinear causal effect of the disease on yields. Our empirical results provide further proof of the negative feedback between disease dynamics and water resources development, and are consistent with schistosomiasis constituting a poverty-reinforcing productivity shock. 
 
 # Summary. An optional shortened abstract.
-summary: We study the economic impact of schistosomiasis, a parasitic disease with a complex transmission cycle which is endemic in many developing countries, by means of its effect on agricultural production. We create a novel dataset that combines high-resolution disease prevalence maps with detailed agricultural and household surveys. We find a large, negative and nonlinear causal effect of the disease on yields. Our empirical results provide further proof of the negative feedback between disease dynamics and water resources development, and are consistent with schistosomiasis constituting a poverty-reinforcing productivity shock.
+# summary: 
 tags:
 - Source Themes
 featured: false
