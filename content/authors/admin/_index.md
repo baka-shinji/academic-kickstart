@@ -14,8 +14,8 @@ role: Economist, Pianist
 
 # Organizations/Affiliations
 organizations:
-- name: Faculty of Economics, University of Cambridge
-  url: "http://www.econ.cam.ac.uk/"
+- name: University of Exeter
+  url: "http://business-school.exeter.ac.uk/about/departments/economics/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are development and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Additionally, I work on stochastic processes and probability theory. Also a pianist.
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daniele.rinaldo@graduateinstitute.ch'
+  link: 'mailto:D.Rinaldo@exeter.ac.uk'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at University of Exeter. I am also a classical pianist, performing internationally.
+I am an assistant professor at the University of Exeter in the Department of Economics and Land, Environment and Economic Policy Institute (LEEP). I am also a classical pianist, performing internationally.
 
 I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. 
