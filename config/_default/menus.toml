@@ -12,21 +12,21 @@
   name = "CV"
   url = "img/main.pdf"
   weight = 20
+ 
+ [[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 30
   
  [[main]]
-  name = "Job Market Paper"
-  url = "#featured"
+  name = "Working Papers"
+  url = "#working-papers"
   weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
   weight = 40
-
-[[main]]
-  name = "Research"
-  url = "#publications"
-  weight = 50
 
 [[main]]
   name = "Teaching"
