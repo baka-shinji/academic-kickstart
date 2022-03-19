@@ -6,7 +6,7 @@ authors:
 - Penelope Vounatsou
 - Jean-Louis Arcand
 date: "2020-04-01T00:00:00Z"
-doi: ""
+doi: "https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00919-z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-01T00:00:00Z"
@@ -15,13 +15,13 @@ publishDate: "2020-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted for publication*"
+publication: ""
 publication_short: ""
 
-abstract: asda
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: We study the economic impact of schistosomiasis, a parasitic disease with a complex transmission cycle which is endemic in many developing countries, by means of its effect on agricultural production. We create a novel dataset that combines high-resolution disease prevalence maps with detailed agricultural and household surveys. We find a large, negative and nonlinear causal effect of the disease on yields. Our empirical results provide further proof of the negative feedback between disease dynamics and water resources development, and are consistent with schistosomiasis constituting a poverty-reinforcing productivity shock.
