@@ -66,8 +66,4 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-An earlier version of this paper has been circulated under the title "Scenes from a Monopoly. Renewable Resources and Quickest Detection of Regime Shifts".
-{{% /alert %}}
-
 
