@@ -19,15 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We study the stochastic dynamics of renewable resources under the threat of ecological regime
-shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that
-minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem
-surveillance in the formation of optimal resource extraction policies. We fully solve the case of a
-profit-maximizing monopolist and provide the conditions that determine whether an adverse regime
-shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction
-between market demand, resource scarcity and detection time. We apply our framework to the
-case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its
-depletion and the consequent water supply crisis
+abstract: We study the stochastic dynamics of renewable resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist and provide the conditions that determine whether an adverse regime shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction between market demand, resource scarcity and detection time. We apply our framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
 
 # Summary. An optional shortened abstract.
 summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
