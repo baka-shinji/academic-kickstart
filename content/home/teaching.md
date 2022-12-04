@@ -13,10 +13,18 @@ subtitle = ""
 weight = 120
 +++
 
--	**Macroeconomics A**
-	-	Cédric Tille - Autumn 2017
--	**Macroeconomics B**
-	-	Yi Huang - Spring 2017 ; Spring 2016 ; Spring 2015
--	**Econometrics A**
-	-	Nicolas Berman  - Autumn 2017 ; Autumn 2016 ; Autumn 2015 ; Autumn 2014
+-	**Topics in Empirical Economics 1**
+	-	Causal inference and machine learning methods, with applications to environmental and development economics 
+	-	MRes, Autumn term, 2021-currently
+-	**Economic Analysis and Pandemics**
+	-	Pandemics, epidemics, global health and economic policy
+	-	UG, Spring term, 2022-currently
+
+
+#-	**Macroeconomics A**
+#	-	Cédric Tille - Autumn 2017
+#-	**Macroeconomics B**
+#	-	Yi Huang - Spring 2017 ; Spring 2016 ; Spring 2015
+#-	**Econometrics A**
+#	-	Nicolas Berman  - Autumn 2017 ; Autumn 2016 ; Autumn 2015 ; Autumn 2014
 
