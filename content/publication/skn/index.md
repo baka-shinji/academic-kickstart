@@ -1,5 +1,5 @@
 ---
-title: "Skew-Normal Diffusions"
+title: "Skew Normal Diffusions"
 authors:
 - admin
 - Max Olivier Hongler
