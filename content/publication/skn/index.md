@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We study the stochastic dynamics of renewable resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist and provide the conditions that determine whether an adverse regime shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction between market demand, resource scarcity and detection time. We apply our framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
+abstract: We study stochastic differential equations whose solutions behave according to skewed Gaussian distributions. We uncover a wide new class of diffusions characterized by a Brownian motion with a non-homogeneous drift, for which the skew-normal distribution with time dependent skewness is the classical solution of the corresponding Kolmogorov forward equations. We obtain the drift via generalized h-transforms of a new class of local martingales. We are able to characterize explicitly the relationship between skewness and potential for the entire class of processes. We find that such processes can be interpreted as dynamic censoring models with partial observability and time dependent correlations, and can be used as a skewness-inducing noise source for any diffusion process. We then extend our previous results to Ornstein-Uhlenbeck diffusions.
 
 # Summary. An optional shortened abstract.
-summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
+summary:  
 tags:
 
 - Source Themes
