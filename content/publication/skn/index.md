@@ -2,12 +2,12 @@
 title: "Skew-Normal Diffusions"
 authors:
 - admin
-- Max-Olivier Hongler
+- Max Olivier Hongler
 date: "2022-12-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-05T00:00:00Z
+publishDate: "2022-12-02T00:00:00Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:  
+abstract: We study stochastic differential equations whose solutions behave according to skewed Gaussian distributions. We uncover a wide new class of diffusions characterized by a Brownian motion with a non homogeneous drift, for which the skew-normal distribution with time dependent skewness is the classical solution of the corresponding Kolmogorov forward equations. We obtain the drift via generalized h transforms of a new class of local martingales. We are able to characterize explicitly the relationship between skewness and potential for the entire class of processes. We find that such processes can be interpreted as dynamic censoring models with partial observability and time dependent correlations, and can be used as a skewness inducing noise source for any diffusion process. We then extend our previous results to Ornstein Uhlenbeck diffusions.
 
 # Summary. An optional shortened abstract.
 
