@@ -19,7 +19,15 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Decisions under ecological uncertainty are a crucial part of resource management as many ecological systems undergo abrupt shifts in their structure and behavior. These changes are frequently triggered by the actions of the resource harvester. We study the stochastic dynamics of a renewable resource harvested by a monopolist facing a downward sloping demand curve. We introduce a framework where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. In a multi-regime setting, the firm faces uncertainty in both the environmental fluctuations and the timing of the shift, and has to find the profit-maximizing extraction policy while simultaneously detecting in the quickest time possible the change in regime. Quickest detection methods allow our model to encapsulate the idea of environmental surveillance of ecological dynamics. Our key finding is that post-detection of a negative regime shift, at higher stock levels, the firm pursues an aggressive extraction due to an elastic market demand allowing the monopolist to charge higher markups. Pre-detection, we find that intensification of extraction is possible as a consequence of a sense of urgency caused by the possibility of collapse due to the regime shift. For lower stocks, a precautionary behaviour can result due to increasing resource rent. We study the probability of resource extinction and show the emergence of catastrophe risk which can be both reversible and irreversible based on the extinction's expected hitting time.
+abstract: We study the stochastic dynamics of renewable resources under the threat of ecological regime
+shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that
+minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem
+surveillance in the formation of optimal resource extraction policies. We fully solve the case of a
+profit-maximizing monopolist and provide the conditions that determine whether an adverse regime
+shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction
+between market demand, resource scarcity and detection time. We apply our framework to the
+case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its
+depletion and the consequent water supply crisis
 
 # Summary. An optional shortened abstract.
 summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
