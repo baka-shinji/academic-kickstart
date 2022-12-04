@@ -3,7 +3,7 @@ title: "Skew-Normal Diffusions"
 authors:
 - admin
 - Max-Olivier Hongler
-date: "2020-09-07T00:00:00Z"
+date: "2022-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
