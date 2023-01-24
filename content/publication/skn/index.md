@@ -29,9 +29,9 @@ tags:
 featured: true
 
 # links: 
-#  - name: arXiv
+  - name: arXiv
     url: https://arxiv.org/abs/2301.09225
- name: Latest Version
+# name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
 # url_poster: '#'
