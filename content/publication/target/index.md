@@ -23,12 +23,12 @@ publication_short: ""
 
 abstract: We develop a target zone model with realistic features such as finite exit time, non-stationary dynamics and heavy tails. Our rigorous characterization of risk corresponds to the dynamic counterpart of a mean-preserving spread. We explicitly solve for both stationary and transient exchange rate paths, and show how they are influenced by the distance to both the time horizon and the target zone bands. This enables us to show how central bank intervention is endogenous to both the distance of the fundamental to the band and the underlying risk. We discuss how the credibility of the target zone is shaped by the set horizon and the degree of underlying risk, and we determine a minimum time at which the required parity can be reached. We prove that the interplay of the diffusive component and the destabilizing risk component can yield an endogenous regime shift characterized by a threshold level of risk above which the target zone ceases to exist. All the previous results cannot obtain by means of the standard Gaussian and affine models. We recover by numerical simulations the different exchange rate densities established by the target zone literature.
 # Summary. An optional shortened abstract.
-summary: Journal of Mathematical Economics
+summary: Journal of Mathematical Economics, (forthcoming)
 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
@@ -45,7 +45,6 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
