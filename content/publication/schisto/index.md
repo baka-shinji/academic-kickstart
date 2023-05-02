@@ -6,7 +6,7 @@ authors:
 - Penelope Vounatsou
 - Jean-Louis Arcand
 date: "2020-04-01T00:00:00Z"
-doi: "https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00919-z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: img/schisto.pdf
+url_pdf: https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00919-z 
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
