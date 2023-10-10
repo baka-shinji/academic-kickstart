@@ -21,23 +21,26 @@ organizations:
 bio: My research interests are development and environmental economics, currently focusing on the economic impact of endemic diseases in sub-Saharan Africa and natural resource management under regime shifts. Additionally, I work on stochastic processes and probability theory. Also a pianist.
 
 interests:
-- Development economics
 - Environmental economics
+- Development economics
 - Mathematical economics, stochastic analysis and control
 
 
 education:
   courses:
+  - course: Research Fellow
+    institution: University of Cambridge
+    year: 2021
   - course: PhD in Economics
     institution: The Graduate Institute of International and Development Studies, Geneva
-    year: 2018
+    year: 2019
   - course: MSc in Quantitative Finance
     institution: University of Padua
     year: 2009
   - course: Soloist Diploma
     institution: Musik-Akademie Basel
     year: 2014
-  - course: MA, piano performance
+  - course: MA, piano
     institution: Royal Academy of Music, London
     year: 2011
 
@@ -74,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the University of Exeter in the Department of Economics and the Land, Environment and Economic Policy Institute (LEEP). I am also a classical pianist, performing internationally.
+I am an assistant professor (E&R lecturer) at the University of Exeter and at the Land, Economics, Environment and Policy Institute (LEEP). I work at the nexus of environmental, development and mathematical economics. 
 
-I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study optimal resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. 
+My current research studies the drivers of deforestation and the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study optimal resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. I am a classical pianist.
