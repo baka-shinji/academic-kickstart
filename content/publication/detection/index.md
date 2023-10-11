@@ -1,10 +1,10 @@
 ---
-title: "Scenes from a Monopoly: Quickest Detection of Ecological Regimes"
+title: "Quickest detection of ecological regime shifts for natural resource management"
 authors:
 - admin
 - Neha Deopa
 date: "2020-09-07T00:00:00Z"
-doi: ""
+doi: "R&R"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-01T00:00:00Z"
