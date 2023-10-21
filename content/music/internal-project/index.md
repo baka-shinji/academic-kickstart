@@ -1,6 +1,6 @@
 ---
 title: Concert biography
-summary: (last updated - April 2020)
+summary: 
 tags:
 - Piano
 - Classical music
