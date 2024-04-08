@@ -45,7 +45,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  focal_point: ""
+  focal_point: ''
   preview_only: false
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   # placement: 1
