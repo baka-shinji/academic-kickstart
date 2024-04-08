@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We study the stochastic dynamics of natural resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist, study its response to regime shift detection and show the generality of our framework by extending our results to other decision makers and functional forms. We apply our framework to the case of the Cantareira water reservoir in São Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
+abstract: We study the stochastic dynamics of natural resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist, study its response to regime shift detection and show the generality of our framework by extending our results to other decision makers and functional forms. We apply our framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
 
 # Summary. An optional shortened abstract.
-summary: Forthcoming, "Environmental and Resource Economics" (2024)
+summary: Forthcoming, Environmental and Resource Economics (2024)
 tags:
 
 - Source Themes
