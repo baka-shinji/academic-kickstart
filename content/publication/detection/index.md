@@ -47,8 +47,10 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  placement: 1
-  focal_point: "smart"
+  # placement: 1
+  # focal_point: "smart"
+  # preview_only: false
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -65,9 +67,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-An earlier version of this paper has been circulated under the title "Scenes from a Monopoly. Renewable Resources and Quickest Detection of Regime Shifts".
-{{% /alert %}}
 
 
