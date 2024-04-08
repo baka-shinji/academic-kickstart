@@ -4,7 +4,7 @@ authors:
 - admin
 - Neha Deopa
 date: "2020-09-07T00:00:00Z"
-doi: "R&R"
+doi: " "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-01T00:00:00Z"
@@ -13,16 +13,16 @@ publishDate: "2019-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: We study the stochastic dynamics of renewable resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist and provide the conditions that determine whether an adverse regime shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction between market demand, resource scarcity and detection time. We apply our framework to the case of the Cantareira water reservoir in São Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
+abstract: We study the stochastic dynamics of natural resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist, study its response to regime shift detection and show the generality of our framework by extending our results to other decision makers and functional forms. We apply our framework to the case of the Cantareira water reservoir in São Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
 
 # Summary. An optional shortened abstract.
-summary: We study the stochastic dynamics of renewable resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty, and integrate ecosystem surveillance in the formation of optimal resource extraction policies. We apply our framework to the case of the Cantareira water reservoir in São Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
+summary: Forthcoming, "Environmental and Resource Economics" (2024)
 tags:
 
 - Source Themes
