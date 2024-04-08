@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2002.00948
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
