@@ -3,7 +3,7 @@ title: "Quickest detection of ecological regime shifts for natural resource mana
 authors:
 - admin
 - Neha Deopa
-date: "2020-09-07T00:00:00Z"
+date: "2024-04-06T00:00:00Z"
 doi: " "
 
 # Schedule page publish date (NOT publication's date).
