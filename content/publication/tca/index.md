@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: "Revise and Resubmit, Nature Sustainability"
 publication_short: ""
 
-abstract: The Target and Cost Analysis (TCA) approach is proposed as a means of reflecting in 25 government appraisal the societal cost of biodiversity losses arising from government investment and regulatory changes. 
+abstract: The Target and Cost Analysis (TCA) approach is proposed as a means of reflecting in 25 government appraisal the societal cost of biodiversity losses arising from government investment and regulatory changes. Influenced by how carbon is priced in the UK, the resulting biodiversity price reflects the marginal cost of meeting societal targets, and hence avoids disagreements on the use of willingness to pay measures for this purpose. 
 
 # Summary. An optional shortened abstract.
 summary: 
