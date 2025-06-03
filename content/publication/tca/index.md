@@ -15,7 +15,7 @@ publishDate: "2019-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Revise and Resubmit, Nature Sustainability"
@@ -25,7 +25,7 @@ abstract: The Target and Cost Analysis (TCA) approach is proposed as a means of 
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: The Target and Cost Analysis (TCA) approach is proposed as a means of reflecting in 25 government appraisal the societal cost of biodiversity losses arising from government investment and regulatory changes. Influenced by how carbon is priced in the UK, the resulting biodiversity price reflects the marginal cost of meeting societal targets, and hence avoids disagreements on the use of willingness to pay measures for this purpose. Three examples of how to operationalize the TCA are developed at different scales and for different biodiversity metrics - extinction risk 30 for Europe, species abundance in the UK and the statutory DEFRA metric for local developments in England.  Pricing biodiversity according to agreed targets for biodiversity allows trade-offs with other well-being enhancing uses of government funds to be sensibly undertaken without jeopardizing the overall target, and is compatible with current guidelines on Cost Benefit Analysis such as the Treasury Green Book and the ENCA guidelines for natural capital.
 tags:
 
 - Source Themes
