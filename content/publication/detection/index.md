@@ -27,9 +27,9 @@ tags:
 - Source Themes
 featured: false
 
-links: 
- - name: arXiv
-   url: https://arxiv.org/abs/2005.11500
+# links: 
+#  - name: arXiv
+#   url: https://arxiv.org/abs/2005.11500
 # name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
