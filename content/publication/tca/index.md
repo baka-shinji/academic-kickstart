@@ -1,5 +1,5 @@
 ---
-title: "Bringing the economics of biodiversity into policy and decision-making"
+title: "Bringing the Economics of Biodiversity into Policy and Decision-making"
 authors:
 - Ben Groom
 - Ian Bateman
