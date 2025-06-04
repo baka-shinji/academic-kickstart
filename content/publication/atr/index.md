@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract:  asd
+abstract:  Do religions codify ecological principles? 
 
 # Summary. An optional shortened abstract.
 summary:  asd
