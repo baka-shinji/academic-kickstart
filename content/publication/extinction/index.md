@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8c9ea2f6-2629-451f-91c5-fa6411eb04e5)---
 title: "A general relationship between extinction risk and carrying capacity"
 authors:
 - Thomas Ball
@@ -24,6 +23,7 @@ publication: " "
 publication_short: " "
 
 abstract: Understanding the relationship between a population’s probability of extinction and its carrying capacity frames conservation status assessments and guides efforts to understand and mitigate the ongoing biodiversity crisis. Despite this, our understanding of the mathematical form of this relationship remains limited. We conducted ~5 billion population viability assessments that jointly converge on a modified Gompertz curve. This pattern is consistent across >1700 distinct model populations, representing different breeding systems and widely varying rates of population growth, levels of environmental stochasticity, adult survival rate, age at first breeding, and initial population size. Analytical treatment of the underlying dynamics shows that few assumptions suffice to show that the relationship holds for any extant population subject to density-dependent growth. Finally, we discuss the implications of these results and consider the practical use of our findings by conservationists.
+
 
 # Summary. An optional shortened abstract.
 summary: We establish the relationship between a population’s probability of extinction and its carrying capacity as a modified Gompertz curve, a key quantity for assessing conservation status and guiding efforts to understand and mitigate the ongoing biodiversity crisis.
