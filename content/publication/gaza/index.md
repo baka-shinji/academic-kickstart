@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: " "
 publication_short: " "
 
-abstract: We map and estimate the economic impact of the Israel-Hamas war on the Gaza Strip that began after the October 7th 2023 attacks by Palestinian militant groups.  
+abstract: We map and estimate the economic impact of the Israel-Hamas war on the Gaza Strip that began after the October 7th 2023 attacks by Palestinian militant groups. Using data on damage to Gaza's built environment derived with satellite radar time series data, we estimate the causal impact on Gazan economic activity via nighttime luminosity measurements.  
 
 # Summary. An optional shortened abstract.
 summary: 
