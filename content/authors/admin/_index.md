@@ -18,7 +18,7 @@ organizations:
   url: "http://business-school.exeter.ac.uk/about/departments/economics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development and environmental economics, currently focusing on the economic impact of endemic diseases in sub-Saharan Africa and natural resource management under regime shifts. Additionally, I work on stochastic processes and probability theory. Also a pianist.
+bio: My research interests are development and environmental economics, currently focusing on the economic impact of endemic diseases in sub-Saharan Africa and natural resource management under regime shifts. Additionally, I work on stochastic processes and probability theory. Also a concert pianist.
 
 interests:
 - Environmental economics
@@ -79,4 +79,4 @@ user_groups:
 
 I am an assistant professor (E&R lecturer) at the University of Exeter and at the Land, Economics, Environment and Policy Institute (LEEP). I work at the nexus of environmental, development and mathematical economics. 
 
-My current research studies the drivers of deforestation and the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study natural resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. I am a classical pianist.
+My current research studies the drivers of deforestation and the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study natural resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. I am a classical pianist, performing internationally.
