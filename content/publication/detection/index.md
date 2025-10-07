@@ -4,7 +4,7 @@ authors:
 - admin
 - Neha Deopa
 date: "2024-01-01T00:00:00Z"
-doi: "https://link.springer.com/article/10.1007/s10640-024-00868-9"
+doi: "https://doi.org/10.1007/s10640-024-00868-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-01T00:00:00Z"
