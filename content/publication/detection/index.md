@@ -4,7 +4,7 @@ authors:
 - admin
 - Neha Deopa
 date: "2024-01-01T00:00:00Z"
-doi:
+doi:""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-01T00:00:00Z"
@@ -29,7 +29,7 @@ featured: false
 
 # links: 
  - name: PDF
-  url: https://link.springer.com/article/10.1007/s10640-024-00868-9
+   url: https://link.springer.com/article/10.1007/s10640-024-00868-9
 # name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: https://link.springer.com/article/10.1007/s10640-024-00868-9 
