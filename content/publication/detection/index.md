@@ -1,10 +1,10 @@
 ---
-title: "Quickest detection of ecological regime shifts for natural resource management"
+title: "Quickest Detection of Ecological Regimes for Natural Resource Management"
 authors:
 - admin
 - Neha Deopa
-date: "2024-01-01T00:00:00Z"
-doi:""
+date: "2024-03-03T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-01T00:00:00Z"
@@ -20,19 +20,20 @@ publication: ""
 publication_short: ""
 
 abstract: We study the stochastic dynamics of natural resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist, study its response to regime shift detection and show the generality of our framework by extending our results to other decision makers and functional forms. We apply our framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
+
 # Summary. An optional shortened abstract.
-summary: Environmental and Resource Economics (2024).  <br/> EAERE Award for Outstanding Publication in ERE (Commended paper)
+summary: Environmental and Resource Economics, (2024) <br/> EAERE Special commendation for outstanding publication in ERE.
 tags:
 
 - Source Themes
 featured: false
 
-# links: 
+links: 
  - name: PDF
-   url: https://link.springer.com/article/10.1007/s10640-024-00868-9
+   url: https://doi.org/10.1007/s10640-024-00868-9
 # name: Latest Version
-#  url: img/Monopoly_Detection_EcologicalRegimes.pdf
-# url_pdf: https://link.springer.com/article/10.1007/s10640-024-00868-9 
+ # url: img/Monopoly_Detection_EcologicalRegimes.pdf
+# url_pdf: 
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
@@ -45,13 +46,10 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  focal_point: ""
-  preview_only: false
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  # placement: 1
-  # focal_point: "smart"
-  # preview_only: false
-
+  placement: 1
+  focal_point: "smart"
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -67,5 +65,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+{{% alert note %}}
+An earlier version of this paper has been circulated under the title "Scenes from a Monopoly. Renewable Resources and Quickest Detection of Regime Shifts".
+{{% /alert %}}
 
 
