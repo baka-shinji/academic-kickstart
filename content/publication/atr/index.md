@@ -31,7 +31,6 @@ featured: true
 # links: 
 - name: arXiv
    url: https://arxiv.org/pdf/2401.13673
-  
 # name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
