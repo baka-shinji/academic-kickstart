@@ -29,8 +29,8 @@ tags:
 featured: false
 
 links: 
-- name: arXiv
-   url: https://arxiv.org/pdf/2401.13673
+ - name: PDF
+   url: [https://arxiv.org/pdf/2401.13673](https://arxiv.org/pdf/2401.13673)
 # name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
