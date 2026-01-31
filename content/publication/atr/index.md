@@ -26,7 +26,7 @@ abstract:  Do religions codify ecological principles? This paper explores theore
 tags:
 
 - Source Themes
-featured: true
+featured: false
 
 links: 
 - name: arXiv
