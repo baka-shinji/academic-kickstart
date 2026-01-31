@@ -28,7 +28,7 @@ tags:
 - Source Themes
 featured: true
 
-# links: 
+links: 
 - name: arXiv
    url: https://arxiv.org/pdf/2401.13673
 # name: Latest Version
