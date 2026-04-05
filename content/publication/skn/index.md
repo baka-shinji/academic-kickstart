@@ -3,7 +3,7 @@ title: "Skew-Normal Diffusions"
 authors:
 - admin
 - Max-Olivier Hongler
-date: "2026-04-04T00:00:00Z"
+date: "2025-03-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ summary: Forthcoming, Journal of Statistical Physics (2026)
 tags:
 
 - Source Themes
-featured: true
+featured: false
 
 links: 
  - name: arXiv
