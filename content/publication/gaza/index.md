@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We map and estimate the economic impact of the Israel-Hamas war on the Gaza Strip that began after the 7 October 2023 attacks by Palestinian militant groups. We measure the extent of likely damage to Gaza’s built environment derived from satellite radar time series data and estimate the impact caused by the conflict on Gazan economic activity via night-time luminosity measurements. 
+abstract: We map and estimate the economic impact of the Israel-Hamas war on the Gaza Strip that began after the 7 October 2023 attacks by Palestinian militant groups. We measure the extent of likely damage to Gaza’s built environment derived from satellite radar time series data and estimate the impact caused by the conflict on Gazan economic activity via night-time luminosity measurements. After the first year of war, we find that 82% of each square kilometer of the Gaza Strip had been damaged at least once, and that 67.9% of its built-up area has been destroyed. 
 
 # Summary. An optional shortened abstract.
 summary: Forthcoming, PNAS Nexus (2026)
