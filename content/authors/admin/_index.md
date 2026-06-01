@@ -18,7 +18,7 @@ organizations:
   url: "http://business-school.exeter.ac.uk/about/departments/economics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development and environmental economics, currently focusing on the economic impact of endemic diseases in sub-Saharan Africa and natural resource management under regime shifts. Additionally, I work on stochastic processes and probability theory. Also a concert pianist.
+bio: My research interests are development and environmental economics, currently focusing on the drivers of deforestation in sub-Saharan Africa, the use remote sensing to estimate the economic cost of conflicts, and natural resource management under regime shifts. Additionally, I work on stochastic processes and probability theory. Also a concert pianist.
 
 interests:
 - Environmental economics
