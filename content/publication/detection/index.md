@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links: 
- - name: PDF
+ - name: DOI
    url: https://doi.org/10.1007/s10640-024-00868-9
 # name: Latest Version
  # url: img/Monopoly_Detection_EcologicalRegimes.pdf
