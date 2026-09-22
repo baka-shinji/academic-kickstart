@@ -7,7 +7,7 @@ authors:
 - admin
 - Rhys Green
 - et al.
-date: "2026-03-04T00:00:00Z"
+date: "2024-03-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +20,8 @@ publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: " "
-publication_short: " "
+publication: ""
+publication_short: ""
 
 abstract: Understanding the relationship between a population’s probability of extinction and its carrying capacity frames conservation status assessments and guides efforts to understand and mitigate the ongoing biodiversity crisis. Despite this, our understanding of the mathematical form of this relationship remains limited. We conducted ~5 billion population viability assessments that jointly converge on a modified Gompertz curve. This pattern is consistent across +1700 distinct model populations, representing different breeding systems and widely varying rates of population growth, levels of environmental stochasticity, adult survival rate, age at first breeding, and initial population size. Analytical treatment of the underlying dynamics shows that few assumptions suffice to show that the relationship holds for any extant population subject to density-dependent growth. Finally, we discuss the implications of these results and consider the practical use of our findings by conservationists.
 
