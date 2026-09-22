@@ -17,7 +17,7 @@ publishDate: "2019-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: " "
@@ -27,8 +27,7 @@ abstract: Understanding the relationship between a population’s probability of
 
 
 # Summary. An optional shortened abstract.
-summary: R&R, Nature Communications. We establish the relationship between a population’s probability of extinction and its carrying capacity as a modified Gompertz curve, a key quantity for assessing conservation status and guiding efforts to understand and mitigate the ongoing biodiversity crisis.
-
+summary: Nature Communications (2026)
 tags:
 
 - Source Themes
