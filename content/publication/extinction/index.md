@@ -1,12 +1,7 @@
 ---
 title: "A general relationship between extinction risk and carrying capacity"
 authors:
-- Thomas Ball
-- Andrew Balmford
-- Ben Balmford
 - admin
-- Rhys Green
-- et al.
 date: "2025-03-04T00:00:00Z"
 doi: ""
 
